@@ -1,12 +1,10 @@
 ---
 name: mitigated-skepticism
-description: Apply proportioned skepticism—fierce enough to challenge dogma, gentle
-  enough to preserve practical life. Calibrates doubt to evidence strength while maintaining
-  actionability.
+description: Apply proportioned skepticism—fierce enough to challenge dogma, gentle enough to preserve practical life. Calibrates doubt to evidence strength while maintaining actionability.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - mitigated-skepticism
 - writing
