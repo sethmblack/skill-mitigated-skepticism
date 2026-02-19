@@ -4,7 +4,7 @@ description: Apply proportioned skepticism—fierce enough to challenge dogma, g
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4510
+  version: 1.0.4511
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mitigated-skepticism
